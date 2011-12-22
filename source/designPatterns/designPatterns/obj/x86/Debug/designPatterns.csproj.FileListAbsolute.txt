@@ -1,0 +1,15 @@
+D:\dev\ktpm-final\source\designPatterns\designPatterns\bin\Debug\designPatterns.exe
+D:\dev\ktpm-final\source\designPatterns\designPatterns\bin\Debug\designPatterns.pdb
+D:\dev\ktpm-final\source\designPatterns\designPatterns\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\dev\ktpm-final\source\designPatterns\designPatterns\obj\x86\Debug\MainWindow.baml
+D:\dev\ktpm-final\source\designPatterns\designPatterns\obj\x86\Debug\MainWindow.g.cs
+D:\dev\ktpm-final\source\designPatterns\designPatterns\obj\x86\Debug\App.g.cs
+D:\dev\ktpm-final\source\designPatterns\designPatterns\obj\x86\Debug\designPatterns_MarkupCompile.cache
+D:\dev\ktpm-final\source\designPatterns\designPatterns\obj\x86\Debug\designPatterns.g.resources
+D:\dev\ktpm-final\source\designPatterns\designPatterns\obj\x86\Debug\designPatterns.Properties.Resources.resources
+D:\dev\ktpm-final\source\designPatterns\designPatterns\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\dev\ktpm-final\source\designPatterns\designPatterns\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\dev\ktpm-final\source\designPatterns\designPatterns\obj\x86\Debug\designPatterns.exe
+D:\dev\ktpm-final\source\designPatterns\designPatterns\obj\x86\Debug\designPatterns.pdb
+D:\dev\ktpm-final\source\designPatterns\designPatterns\obj\x86\Debug\view\WindowView.baml
+D:\dev\ktpm-final\source\designPatterns\designPatterns\obj\x86\Debug\view\WindowView.g.cs
