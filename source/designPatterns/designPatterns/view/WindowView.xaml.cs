@@ -15,9 +15,6 @@ namespace designPatterns.view
 
         private void WindowLoaded(object sender, System.Windows.RoutedEventArgs e)
         {
-            var model = new FacadeWindowModel();
-            var viewModel = new WindowViewModel(model);
-            DataContext = viewModel;
         }
 
     }

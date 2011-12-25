@@ -5,9 +5,16 @@ using System.Text;
 
 namespace designPatterns.model
 {
-    public class WindowModel
+    public abstract class WindowModel
     {
         public String Description { get; set; }
         public String ConsoleOutput { get; set; }
+
+        public WindowModel(String desc)
+        {
+            Description = desc;
+        }
+
+        public abstract void Run();
     }
 }

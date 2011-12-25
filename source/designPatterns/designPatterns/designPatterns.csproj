@@ -58,8 +58,13 @@
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>
     </ApplicationDefinition>
+    <Compile Include="model\Behavioural\HandlerWindowModel.cs" />
+    <Compile Include="model\Strutural\DecoratorWindowModel.cs" />
     <Compile Include="model\FacadeWindowModel.cs" />
     <Compile Include="viewmodel\WindowViewModel.cs" />
+    <Compile Include="view\HandlerView.xaml.cs">
+      <DependentUpon>HandlerView.xaml</DependentUpon>
+    </Compile>
     <Compile Include="view\WindowView.xaml.cs">
       <DependentUpon>WindowView.xaml</DependentUpon>
     </Compile>
@@ -75,6 +80,10 @@
       <DependentUpon>MainWindow.xaml</DependentUpon>
       <SubType>Code</SubType>
     </Compile>
+    <Page Include="view\HandlerView.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
     <Page Include="view\WindowView.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
@@ -99,6 +108,8 @@
       <Generator>ResXFileCodeGenerator</Generator>
       <LastGenOutput>Resources.Designer.cs</LastGenOutput>
     </EmbeddedResource>
+    <None Include="app.config" />
+    <None Include="conf\classDg.cd" />
     <None Include="conf\app.manifest" />
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>

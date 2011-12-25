@@ -1,0 +1,12 @@
+﻿<Window x:Class="designPatterns.view.HandlerView"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="HandlerView" Height="300" Width="300">
+    <Grid>
+        <DockPanel LastChildFill="True">
+            <TextBlock DockPanel.Dock="Left" TextWrapping="Wrap" Width="151" Text="{Binding Description}" Padding="5" />
+            <TextBlock DockPanel.Dock="Bottom" TextWrapping="Wrap" Width="Auto" Height="135" Text="{Binding ConsoleOutput}"/>
+            <Button Content="LastChildFill=True"/>
+        </DockPanel>
+    </Grid>
+</Window>
