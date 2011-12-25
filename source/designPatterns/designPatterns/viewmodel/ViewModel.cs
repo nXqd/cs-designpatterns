@@ -1,8 +1,5 @@
 ﻿using System;
-using System.Collections.Generic;
 using System.ComponentModel;
-using System.Linq;
-using System.Text;
 using designPatterns.model;
 
 namespace designPatterns.viewmodel
@@ -16,28 +13,25 @@ namespace designPatterns.viewmodel
             }
         }
     }
-    public abstract class ViewModel : PropertyChangedBase
-    {
-        protected Model Model;
 
-        public ViewModel(Model model)
+    /// <summary>
+    /// Use Generic
+    /// </summary>
+    /// <typeparam name="TModel"></typeparam>
+    public abstract class ViewModel<TModel> : PropertyChangedBase where TModel : Model, new()
+    {
+        public TModel Model { get; set; }
+
+        public ViewModel(TModel model)
         {
             Model = model;
         }
 
         protected ViewModel() {
+            Model = new TModel();
         }
 
         #region Get data for binding
-
-        public String ConsoleOutput { 
-            get { return Model.ConsoleOutput; }
-            set {
-                if (Model.ConsoleOutput == value) return;
-                Model.ConsoleOutput = value;
-                OnPropertyChanged("ConsoleOutput");
-            }
-        }
 
         public String Description { 
             get { return Model.Description; }

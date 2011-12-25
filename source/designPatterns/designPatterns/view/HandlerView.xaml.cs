@@ -1,6 +1,4 @@
 ﻿using System.Windows;
-using designPatterns.model;
-using designPatterns.model.Behavioural;
 using designPatterns.viewmodel;
 
 namespace designPatterns.view
@@ -10,7 +8,7 @@ namespace designPatterns.view
     /// </summary>
     public partial class HandlerView {
 
-        private ViewModel _viewModel;
+        private HandlerViewModel _viewModel;
 
         public HandlerView()
         {
@@ -33,8 +31,7 @@ namespace designPatterns.view
         /// <param name="sender"></param>
         /// <param name="e"></param>
         private void AddJob(object sender, RoutedEventArgs e) {
-            var viewModel = (HandlerViewModel) _viewModel;
-            var output = viewModel.AddJob();
+            var output = _viewModel.AddJob();
             rtbOutput.AppendText(output);
         }
     }

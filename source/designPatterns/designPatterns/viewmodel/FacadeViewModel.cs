@@ -1,21 +1,14 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using designPatterns.model;
+﻿using designPatterns.model;
 
 namespace designPatterns.viewmodel
 {
-    public class FacadeViewModel:ViewModel {
-
-        private readonly FacadeModel _model;
+    public class FacadeViewModel:ViewModel<FacadeModel>{
 
         /// <summary>
         /// Default Constructor
         /// </summary>
         public FacadeViewModel() {
             Model = new FacadeModel();
-            _model = (FacadeModel) Model;
         }
 
         /// <summary>
@@ -23,7 +16,7 @@ namespace designPatterns.viewmodel
         /// </summary>
         /// <returns></returns>
         public string TurnOn() {
-            var str = _model.TurnOn();
+            var str = Model.TurnOn();
             OnPropertyChanged("SoundValue");
             OnPropertyChanged("LightValue");
             return str;
@@ -34,7 +27,7 @@ namespace designPatterns.viewmodel
         /// </summary>
         /// <returns></returns>
         public string TurnOff() {
-            var str = _model.TurnOff();
+            var str = Model.TurnOff();
             OnPropertyChanged("SoundValue");
             OnPropertyChanged("LightValue");
             return str;
@@ -45,7 +38,7 @@ namespace designPatterns.viewmodel
         /// </summary>
         /// <returns></returns>
         public string DVDInject() {
-            return _model.DVDInject();
+            return Model.DVDInject();
         }
 
         /// <summary>
@@ -53,7 +46,7 @@ namespace designPatterns.viewmodel
         /// </summary>
         /// <returns></returns>
         public string DVDEject() {
-            return _model.DVDEject();
+            return Model.DVDEject();
         }
 
         /// <summary>
@@ -63,7 +56,7 @@ namespace designPatterns.viewmodel
         /// <returns></returns>
         public string SetSound(int value) {
             SoundValue = value;
-            return _model.SetSound(value);
+            return Model.SetSound(value);
         }
 
         /// <summary>
@@ -73,7 +66,7 @@ namespace designPatterns.viewmodel
         /// <returns></returns>
         public string SetLight(int value) {
             LightValue = value;
-            return _model.SetLight(value);
+            return Model.SetLight(value);
         }
 
         #region Data for binding
@@ -82,11 +75,11 @@ namespace designPatterns.viewmodel
         /// </summary>
         public int SoundValue
         {
-            get { return _model.HomeTheatre.Sound.Value; }
+            get { return Model.HomeTheatre.Sound.Value; }
             set
             {
-                if (_model.GetSound().Equals(value)) return;
-                _model.SetSound(value);
+                if (Model.GetSound().Equals(value)) return;
+                Model.SetSound(value);
                 OnPropertyChanged("SoundValue");
             }
         }  
@@ -96,11 +89,11 @@ namespace designPatterns.viewmodel
         /// </summary>
         public int LightValue
         {
-            get { return _model.HomeTheatre.Light.Value; }
+            get { return Model.HomeTheatre.Light.Value; }
             set
             {
-                if (_model.GetLight().Equals(value)) return;
-                _model.SetLight(value);
+                if (Model.GetLight().Equals(value)) return;
+                Model.SetLight(value);
                 OnPropertyChanged("LightValue");
             }
         }  

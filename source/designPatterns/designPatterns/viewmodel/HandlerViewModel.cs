@@ -4,12 +4,12 @@ using designPatterns.model.Behavioural;
 
 namespace designPatterns.viewmodel
 {
-    public class HandlerViewModel: ViewModel
+    public class HandlerViewModel: ViewModel<HandlerModel>
     {
 
         public Job Job { get; set; }
 
-        public HandlerViewModel(Model model) : base(model) {
+        public HandlerViewModel(Model model) : base(model as HandlerModel) {
         }
 
         public HandlerViewModel() {
@@ -18,34 +18,34 @@ namespace designPatterns.viewmodel
         }
 
         public String AddJob() {
-            var model = (HandlerModel) Model;
+            var model = Model;
             return model.AddJob(Job) + Environment.NewLine;
         }
 
         #region Data for binding
         public string DirectorName { 
-            get { return ((HandlerModel)Model).Director.Name; }
+            get { return Model.Director.Name; }
             set {
-                if (((HandlerModel)Model).Director.Name.Equals(value)) return;
-                ((HandlerModel)Model).Director.Name = value;
+                if (Model.Director.Name.Equals(value)) return;
+                Model.Director.Name = value;
                 OnPropertyChanged("DirectorName");
             }
         }
 
         public string ProjectManagerName { 
-            get { return ((HandlerModel)Model).ProjectManager.Name; }
+            get { return Model.ProjectManager.Name; }
             set {
-                if (((HandlerModel)Model).ProjectManager.Name.Equals(value)) return;
-                ((HandlerModel)Model).ProjectManager.Name = value;
+                if (Model.ProjectManager.Name.Equals(value)) return;
+                Model.ProjectManager.Name = value;
                 OnPropertyChanged("ProjectManagerName");
             }
         }
 
         public string ViceDirectorName { 
-            get { return ((HandlerModel)Model).ViceDirector.Name; }
+            get { return Model.ViceDirector.Name; }
             set {
-                if (((HandlerModel)Model).ViceDirector.Name.Equals(value)) return;
-                ((HandlerModel)Model).ViceDirector.Name = value;
+                if (Model.ViceDirector.Name.Equals(value)) return;
+                Model.ViceDirector.Name = value;
                 OnPropertyChanged("ViceDirectorName");
             }
         }

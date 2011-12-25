@@ -11,7 +11,6 @@ namespace designPatterns.model.Behavioural
         /// <summary>
         /// Constructor from base
         /// </summary>
-        /// <param name="desc"></param>
         public HandlerModel() {
             Description = "Handler pattern" + Environment.NewLine + Environment.NewLine+ Environment.NewLine +
                           "Giám đốc sẽ xử lý các công việc với giá trị trên 500" + Environment.NewLine +
@@ -41,7 +40,7 @@ namespace designPatterns.model.Behavioural
         protected float LimitedPrice;
         public Member HigherMember { get; set; }
 
-        public Member(string name) {
+        protected Member(string name) {
             Name = name;
         }
 
@@ -52,9 +51,9 @@ namespace designPatterns.model.Behavioural
         /// <returns></returns>
         public virtual string Process(Job job) {
             if (job.Price < LimitedPrice) {
-                var output = Name + " đang xử lý công việc: " + System.Environment.NewLine;
-                output += "#Mô tả: " + job.Description + System.Environment.NewLine;
-                output += "#Trị giá: " + job.Price + System.Environment.NewLine;
+                var output = Name + " đang xử lý công việc: " + Environment.NewLine;
+                output += "#Mô tả: " + job.Description + Environment.NewLine;
+                output += "#Trị giá: " + job.Price + Environment.NewLine;
                 return output;
             }
             return HigherMember.Process(job);
