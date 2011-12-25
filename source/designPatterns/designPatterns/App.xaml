@@ -1,7 +1,7 @@
 ﻿<Application x:Class="designPatterns.App"
              xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
              xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
-             StartupUri="view/WindowView.xaml">
+             StartupUri="view/HandlerView.xaml">
     <Application.Resources>
          
     </Application.Resources>

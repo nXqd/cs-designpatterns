@@ -1,9 +1,9 @@
 ﻿/* Decorator design pattern */
 namespace designPatterns.model.Strutural
 {
-    public class DecoratorWindowModel : WindowModel
+    public class DecoratorWindowModel : Model
     {
-        public DecoratorWindowModel(string desc) : base(desc)
+        public DecoratorWindowModel()
         {
         }
 
@@ -42,5 +42,6 @@ namespace designPatterns.model.Strutural
             }
         }
         #endregion
+
     }
 }

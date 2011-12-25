@@ -1,14 +1,11 @@
 ﻿namespace designPatterns.model
 {
-    public class FacadeWindowModel : WindowModel
+    public class FacadeWindowModel : Model
     {
-        public FacadeWindowModel(string desc) : base(desc)
+        public FacadeWindowModel()
         {
         }
 
-        public override void Run() {
-        }
-        
         #region Facade code behind
         /* To simplify our home theatre system for noob, we use facade pattern*/
 

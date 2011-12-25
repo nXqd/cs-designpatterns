@@ -1,6 +1,4 @@
-﻿using System.Windows;
-
-namespace designPatterns
+﻿namespace designPatterns
 {
     /// <summary>
     /// Interaction logic for App.xaml
