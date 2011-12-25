@@ -10,7 +10,6 @@ namespace designPatterns.view
     /// </summary>
     public partial class HandlerView {
 
-        private Model _model;
         private ViewModel _viewModel;
 
         public HandlerView()
@@ -24,8 +23,7 @@ namespace designPatterns.view
         /// <param name="sender"></param>
         /// <param name="e"></param>
         private void WindowLoaded(object sender, RoutedEventArgs e) {
-            _model = new HandlerModel();
-            _viewModel = new HandlerViewModel(_model);
+            _viewModel = new HandlerViewModel();
             DataContext = _viewModel;
         }
 

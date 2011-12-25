@@ -10,11 +10,11 @@ namespace designPatterns.viewmodel
         public Job Job { get; set; }
 
         public HandlerViewModel(Model model) : base(model) {
-            Model = new HandlerModel();
-            Job = new Job();
         }
 
         public HandlerViewModel() {
+            Model = new HandlerModel();
+            Job = new Job();
         }
 
         public String AddJob() {

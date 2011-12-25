@@ -60,9 +60,13 @@
     </ApplicationDefinition>
     <Compile Include="model\Behavioural\HandlerModel.cs" />
     <Compile Include="model\Strutural\DecoratorWindowModel.cs" />
-    <Compile Include="model\FacadeWindowModel.cs" />
+    <Compile Include="model\FacadeModel.cs" />
+    <Compile Include="viewmodel\FacadeViewModel.cs" />
     <Compile Include="viewmodel\HandlerViewModel.cs" />
     <Compile Include="viewmodel\ViewModel.cs" />
+    <Compile Include="view\FacadeView.xaml.cs">
+      <DependentUpon>FacadeView.xaml</DependentUpon>
+    </Compile>
     <Compile Include="view\HandlerView.xaml.cs">
       <DependentUpon>HandlerView.xaml</DependentUpon>
     </Compile>
@@ -78,6 +82,10 @@
       <DependentUpon>MainWindow.xaml</DependentUpon>
       <SubType>Code</SubType>
     </Compile>
+    <Page Include="view\FacadeView.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
     <Page Include="view\HandlerView.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
