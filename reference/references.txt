@@ -1,0 +1,2 @@
+
+http://stackoverflow.com/questions/8630937/refactor-my-code-avoiding-casting-in-derived-classm/questions/8630937/refactor-my-code-avoiding-casting-in-derived-class/8630988#8630988

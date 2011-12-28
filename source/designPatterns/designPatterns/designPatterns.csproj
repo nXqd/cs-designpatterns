@@ -59,15 +59,20 @@
       <SubType>Designer</SubType>
     </ApplicationDefinition>
     <Compile Include="model\Behavioural\HandlerModel.cs" />
-    <Compile Include="model\Strutural\DecoratorWindowModel.cs" />
-    <Compile Include="model\FacadeModel.cs" />
-    <Compile Include="viewmodel\FacadeViewModel.cs" />
-    <Compile Include="viewmodel\HandlerViewModel.cs" />
+    <Compile Include="model\Strutural\DecoratorModel.cs" />
+    <Compile Include="model\Strutural\FacadeModel.cs" />
+    <Compile Include="viewmodel\Command.cs" />
+    <Compile Include="viewmodel\Strutural\DecoratorViewModel.cs" />
+    <Compile Include="viewmodel\Strutural\FacadeViewModel.cs" />
+    <Compile Include="viewmodel\Behavioural\HandlerViewModel.cs" />
     <Compile Include="viewmodel\ViewModel.cs" />
-    <Compile Include="view\FacadeView.xaml.cs">
+    <Compile Include="view\Strutural\DecoratorView.xaml.cs">
+      <DependentUpon>DecoratorView.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="view\Strutural\FacadeView.xaml.cs">
       <DependentUpon>FacadeView.xaml</DependentUpon>
     </Compile>
-    <Compile Include="view\HandlerView.xaml.cs">
+    <Compile Include="view\Behavioural\HandlerView.xaml.cs">
       <DependentUpon>HandlerView.xaml</DependentUpon>
     </Compile>
     <Page Include="MainWindow.xaml">
@@ -82,11 +87,15 @@
       <DependentUpon>MainWindow.xaml</DependentUpon>
       <SubType>Code</SubType>
     </Compile>
-    <Page Include="view\FacadeView.xaml">
+    <Page Include="view\Strutural\DecoratorView.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
     </Page>
-    <Page Include="view\HandlerView.xaml">
+    <Page Include="view\Strutural\FacadeView.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="view\Behavioural\HandlerView.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
     </Page>
@@ -119,7 +128,16 @@
     </None>
     <AppDesigner Include="Properties\" />
   </ItemGroup>
-  <ItemGroup />
+  <ItemGroup>
+    <Resource Include="public\images\GameItem.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Resource>
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="public\images\GodGameItem.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Resource>
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
        Other similar extension points exist, see Microsoft.Common.targets.

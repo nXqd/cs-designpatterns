@@ -1,0 +1,21 @@
+﻿<Window x:Class="designPatterns.view.Strutural.DecoratorView"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="FacadeView" Height="396" Width="677" ResizeMode="NoResize" Loaded="WindowLoaded">
+    <Grid>
+        <DockPanel LastChildFill="True">
+            <TextBlock DockPanel.Dock="Left" TextWrapping="Wrap" Width="236" Text="{Binding Description}" Padding="5" OverridesDefaultStyle="False" ClipToBounds="False" DataContext="{Binding}" />
+            <Grid DockPanel.Dock="Top" VerticalAlignment="Top" Height="236">
+                <Image Height="150" HorizontalAlignment="Left" Margin="6,6,0,0" Name="imgWeapon" Stretch="Fill" VerticalAlignment="Top" Width="150" Source="/designPatterns;component/public/images/GameItem.png" />
+                <Button Command="{Binding ChangeWeapon}" Name="BtnUpgradeItem" Content="Nâng Cấp" Height="23" HorizontalAlignment="Left" Margin="6,162,0,0" VerticalAlignment="Top" Width="150" />
+                <Button Command="{Binding ActivateSkill}" Content="{Binding SpecialSkillButtonText}" Height="23" HorizontalAlignment="Left" Margin="6,191,0,0" Name="bSpecialSkill" VerticalAlignment="Top" Width="150" IsEnabled="{Binding HaveSpecialSkill}" />
+                <Label Content="Nhân vật " Height="28" HorizontalAlignment="Left" Margin="270,6,0,0" Name="label1" VerticalAlignment="Top" FontSize="15" />
+                <Label Content="Tấn công" Height="28" HorizontalAlignment="Left" Margin="227,37,0,0" Name="label2" VerticalAlignment="Top" />
+                <Label Content="Phòng thủ" Height="28" HorizontalAlignment="Left" Margin="221,71,0,0" Name="label3" VerticalAlignment="Top" />
+                <Label Content="{Binding AttackValue}" Height="28" HorizontalAlignment="Left" Margin="304,37,0,0" Name="lAttackValue" VerticalAlignment="Top" />
+                <Label Content="{Binding DefenseValue}" Height="28" HorizontalAlignment="Left" Margin="304,71,0,0" Name="lDefenseValue" VerticalAlignment="Top" />
+            </Grid>
+            <RichTextBox HorizontalAlignment="Stretch" Name="rtbOutput" VerticalAlignment="Stretch" HorizontalContentAlignment="Stretch" BorderThickness="1,1,1,0" VerticalScrollBarVisibility="Auto" />
+        </DockPanel>
+    </Grid>
+</Window>
