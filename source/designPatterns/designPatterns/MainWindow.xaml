@@ -1,8 +1,0 @@
-﻿<Window x:Class="designPatterns.MainWindow"
-        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
-        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
-        Title="MainWindow" Height="Auto" Width="Auto">
-    <Grid>
-        <Button Content="Facade Pattern" Height="120" HorizontalAlignment="Left" Name="FacadeBtn" VerticalAlignment="Top" Width="209" Click="FacadeBtnClick" />
-    </Grid>
-</Window>

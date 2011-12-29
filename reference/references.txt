@@ -1,2 +1,8 @@
-
+My own question 
 http://stackoverflow.com/questions/8630937/refactor-my-code-avoiding-casting-in-derived-classm/questions/8630937/refactor-my-code-avoiding-casting-in-derived-class/8630988#8630988
+
+MVVM tutorial
+http://jmorrill.hjtcentral.com/Home/tabid/428/EntryId/432/MVVM-for-Tarded-Folks-Like-Me-or-MVVM-and-What-it-Means-to-Me.aspx
+
+How to bind command in WPF
+http://marlongrech.wordpress.com/2008/11/26/avoiding-commandbinding-in-the-xaml-code-behind-files/
