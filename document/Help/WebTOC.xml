@@ -1,0 +1,437 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<HelpTOC>
+
+  <HelpTOCNode Id="efe9b8e6-b7b5-47ec-b834-4b0ea5b6cedb" Title="( Default Namespace ) Namespace" Url="html/96f28dfd-2c23-c332-ac2f-6930f1f93bf9.htm">
+    <HelpTOCNode Id="4f1335de-0dc9-437f-985f-e3262913e549" Title="Component Class" Url="html/5383293d-538f-338c-28dd-a1c9ab80c6be.htm">
+      <HelpTOCNode Title="Component Members" Url="html/cd786195-6d28-6d50-a912-85a387151cbd.htm" />
+      <HelpTOCNode Title="Component Constructor " Url="html/6ed5e8db-e515-f417-a352-493a973a7604.htm" />
+      <HelpTOCNode Id="9f3f1694-28cd-4bf8-9e79-c7514e95f75e" Title="Component Methods" Url="html/193bce61-0188-dfe5-112a-daaa36f2478b.htm">
+        <HelpTOCNode Title="Decrease Method " Url="html/4a7a1881-3202-5458-5ece-525abd78993e.htm" />
+        <HelpTOCNode Title="Increase Method " Url="html/4848fe4f-2d76-f127-43f4-b146d79a6b6e.htm" />
+        <HelpTOCNode Title="Set Method " Url="html/32ab5d44-7ecf-ad2a-6f90-043262193703.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="a1c6c20e-5416-4d82-9d39-c1199304b03d" Title="Component Properties" Url="html/9bcafc84-c598-df9f-3833-42bbf39835e5.htm">
+        <HelpTOCNode Title="Value Property " Url="html/58b14e31-1e79-1e3d-8618-68076ce4b1d5.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="acc9ea8f-316c-465a-b5aa-f1e24c6fea86" Title="DVDPlayer Class" Url="html/a0efd2a2-6c1d-0850-6faf-69879954c02e.htm">
+      <HelpTOCNode Title="DVDPlayer Members" Url="html/0ed2d4f7-016f-e44e-134f-465b3bc4148b.htm" />
+      <HelpTOCNode Title="DVDPlayer Constructor " Url="html/94a0d472-b8df-d4b3-b6d0-69959af09e8c.htm" />
+      <HelpTOCNode Id="e8f32566-63e5-4e40-8252-d6ac46e5ebdd" Title="DVDPlayer Methods" Url="html/c391d7e1-680f-6e22-153f-025141916976.htm">
+        <HelpTOCNode Title="Eject Method " Url="html/9d78fbb0-1eb6-866e-73b4-fa6490532e7b.htm" />
+        <HelpTOCNode Title="Inject Method " Url="html/1e5062d9-0353-7d3e-bc36-222ac17408de.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="884ac5a6-4c0b-41cf-88fc-ea90754bfcff" Title="Light Class" Url="html/1b807140-b976-f437-bfcc-0bbc91773821.htm">
+      <HelpTOCNode Title="Light Members" Url="html/303557a3-4429-e461-8018-f2fa228aca0c.htm" />
+      <HelpTOCNode Title="Light Constructor " Url="html/ecd2f7a4-3a7b-88ea-36c3-05248f521076.htm" />
+      <HelpTOCNode Title="Light Methods" Url="html/5313e511-415c-2b5f-5ab1-dce9f382e1c6.htm" />
+      <HelpTOCNode Title="Light Properties" Url="html/c1e45afe-93da-1d5b-34e3-36f543e9ca3d.htm" />
+    </HelpTOCNode>
+    <HelpTOCNode Id="87199eec-0b03-445c-a2b9-01b7874bf92a" Title="Sound Class" Url="html/59dad823-dcb4-a3ab-0fc7-8d7df284ca3f.htm">
+      <HelpTOCNode Title="Sound Members" Url="html/c76e9f1c-9b9f-1d17-a1e8-ec40d84bdb2f.htm" />
+      <HelpTOCNode Title="Sound Constructor " Url="html/6adffcb6-ed11-f1bc-11ec-456eaaf9bef7.htm" />
+      <HelpTOCNode Title="Sound Methods" Url="html/d0420bf5-2fc0-9aa1-9b33-fde339cf983f.htm" />
+      <HelpTOCNode Title="Sound Properties" Url="html/96daec74-51d1-b344-1b1c-477b3c11560d.htm" />
+    </HelpTOCNode>
+  </HelpTOCNode>
+  <HelpTOCNode Id="7941ba5a-96b4-4f8b-8639-078397bb881a" Title="designPatterns Namespace" Url="html/9bb41c07-c40a-0c2e-bab8-f35a8a701af5.htm">
+    <HelpTOCNode Id="746c54bd-ff83-40a4-9ca9-e5219542074e" Title="App Class" Url="html/0a7bd82b-a3d6-2b98-e9d9-ea4308d62871.htm">
+      <HelpTOCNode Title="App Members" Url="html/5b90e991-0235-5c4a-4127-25712c4f32ab.htm" />
+      <HelpTOCNode Title="App Constructor " Url="html/15609cd9-a4ea-d0ab-8684-7e85975c8214.htm" />
+      <HelpTOCNode Id="e6196d16-fd09-4e79-bae7-468591c8f489" Title="App Methods" Url="html/08aaef73-c813-84e9-d0d3-a771709f1cb9.htm">
+        <HelpTOCNode Title="InitializeComponent Method " Url="html/8a83d0f1-68ed-6902-fe3a-b6f4436fb750.htm" />
+        <HelpTOCNode Title="Main Method " Url="html/6931a319-9a02-b7ef-0f75-e187a19c913e.htm" />
+        <HelpTOCNode Title="Run Method " Url="html/08ca7341-ab27-7a49-deab-7989350fbd2a.htm" />
+        <HelpTOCNode Title="Shutdown Method " Url="html/73060351-5009-c999-d8a0-c512b676ba4d.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Title="App Properties" Url="html/3b52eb5a-9951-41f0-95e0-8ef300eee902.htm" />
+      <HelpTOCNode Title="App Events" Url="html/72a8ce3d-02a8-98a6-e07f-584f2a6cd1ae.htm" />
+    </HelpTOCNode>
+    <HelpTOCNode Id="daf64af4-66de-4d08-891b-b6999856b6ed" Title="MainWindow Class" Url="html/28cc5def-4375-f98b-14fa-740cce7792f8.htm">
+      <HelpTOCNode Title="MainWindow Members" Url="html/b0505485-aacb-7076-d697-5395a7099c32.htm" />
+      <HelpTOCNode Title="MainWindow Constructor " Url="html/a7b0a3a1-ee5f-82ca-9869-30cf351829e5.htm" />
+      <HelpTOCNode Id="dbc88a1d-8a35-4899-8427-754803487a71" Title="MainWindow Fields" Url="html/09057bd2-a091-8107-c3b5-5ab25c6fa155.htm">
+        <HelpTOCNode Title="_viewModel Field" Url="html/a5b0d88d-fb48-53d1-a405-db0ba4b041d8.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="3a7cf69f-ea24-4b08-b115-6077c30a45f2" Title="MainWindow Methods" Url="html/438a5f5f-f69d-0323-573d-24571fe7de1a.htm">
+        <HelpTOCNode Title="AddHandler Method " Url="html/63ecde3c-6f0e-8a22-83eb-b03270699622.htm" />
+        <HelpTOCNode Title="ApplyAnimationClock Method " Url="html/73691a8f-a4ae-d325-b0fb-a8d1a7ca8d59.htm" />
+        <HelpTOCNode Title="BeginAnimation Method " Url="html/e02e10f8-5833-48c4-b514-c464c84bcea2.htm" />
+        <HelpTOCNode Title="BeginStoryboard Method " Url="html/b0a96f43-182a-f4aa-fed3-46a27119b8b9.htm" />
+        <HelpTOCNode Title="BringIntoView Method " Url="html/63c06bbf-26a1-1846-d55d-10f0d3557fa5.htm" />
+        <HelpTOCNode Title="ClearValue Method " Url="html/8748e7ac-1917-070b-ee56-0c4288c7455a.htm" />
+        <HelpTOCNode Title="HitTestCore Method " Url="html/36b97b13-1797-47a0-3885-7baa7e20dd1f.htm" />
+        <HelpTOCNode Title="InitializeComponent Method " Url="html/d8e1b3a1-520f-3e8d-3524-126b40e3628e.htm" />
+        <HelpTOCNode Title="SetBinding Method " Url="html/1bbb07d5-aece-7078-9c78-ca11c16f91e0.htm" />
+        <HelpTOCNode Title="SetValue Method " Url="html/dfe33036-3eef-3240-8095-daec58b9cbd7.htm" />
+        <HelpTOCNode Title="TransformToAncestor Method " Url="html/40e9535c-bdce-91a3-7b4b-1442e72161a9.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Title="MainWindow Properties" Url="html/fc99179c-fcd6-fd0c-8aed-381cd3f31b8f.htm" />
+      <HelpTOCNode Title="MainWindow Events" Url="html/f6d29765-3d0a-cc3c-3c06-979bcbbf5056.htm" />
+    </HelpTOCNode>
+  </HelpTOCNode>
+  <HelpTOCNode Id="c4c5a88c-57fd-462c-b4a6-f92e8452d151" Title="designPatterns.model Namespace" Url="html/e5b9c114-ec7d-237b-f88f-d2193ed6d180.htm">
+    <HelpTOCNode Id="9fd17795-01c6-4c3e-b9b7-240e7f0c07ab" Title="FacadeModel Class" Url="html/1c3dff55-e310-93f8-24de-3a7e99d0dccb.htm">
+      <HelpTOCNode Title="FacadeModel Members" Url="html/1e35ed56-67f8-ce6f-91f1-3724236d42c0.htm" />
+      <HelpTOCNode Title="FacadeModel Constructor " Url="html/0ebd8fab-71af-63a3-0a91-efde114e25ff.htm" />
+      <HelpTOCNode Id="0f7ab6b1-defa-4fc2-9d39-2a66ff51ddfe" Title="FacadeModel Methods" Url="html/0eed1c93-30cb-ba45-7d99-55adfaff4585.htm">
+        <HelpTOCNode Title="DVDEject Method " Url="html/ba790960-55ca-ba34-027b-d5b23fc51f9a.htm" />
+        <HelpTOCNode Title="DVDInject Method " Url="html/e96117e7-adc7-fc27-bdd9-52a233ce8763.htm" />
+        <HelpTOCNode Title="GetLight Method " Url="html/4606e3df-bcba-9950-db5f-167066d38d97.htm" />
+        <HelpTOCNode Title="GetSound Method " Url="html/dad204af-d71a-bce2-96d9-003b5af50fc8.htm" />
+        <HelpTOCNode Title="SetLight Method " Url="html/0e984101-3c2f-b7b7-dfe0-613e97cf8959.htm" />
+        <HelpTOCNode Title="SetSound Method " Url="html/cbbd739e-f6ce-6775-5924-21f4a84019bb.htm" />
+        <HelpTOCNode Title="TurnOff Method " Url="html/6fecc066-54b4-0113-09d6-d17d8e299c71.htm" />
+        <HelpTOCNode Title="TurnOn Method " Url="html/f5eed7eb-c938-84d0-7dfa-526d92486e2a.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="fe4aa052-3d52-4233-8cdf-7644c1141dc4" Title="FacadeModel Properties" Url="html/55068764-3578-767b-2fdf-fd9f9f8edb2e.htm">
+        <HelpTOCNode Title="HomeTheatre Property " Url="html/22013f26-2b05-293f-286c-a90d67c7b0d4.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="54445d66-6e5a-4804-8886-bf3bc1a37b2b" Title="HomeTheatre Class" Url="html/fa04bd8d-8383-448b-b55a-25e1118b1283.htm">
+      <HelpTOCNode Title="HomeTheatre Members" Url="html/435399d5-9876-c16f-21e9-b693521fed29.htm" />
+      <HelpTOCNode Title="HomeTheatre Constructor " Url="html/e0ea6334-1d61-c179-f863-ee71ab2462cf.htm" />
+      <HelpTOCNode Id="ee503d33-f343-4f4a-b918-39462e6a8731" Title="HomeTheatre Methods" Url="html/08e20357-822d-80a0-e593-b7337caed14f.htm">
+        <HelpTOCNode Title="TurnOff Method " Url="html/fc047a0b-95e7-f3b0-1743-064c398f5282.htm" />
+        <HelpTOCNode Title="TurnOn Method " Url="html/26618481-16f5-80a3-ab41-a2ae9d754ff6.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="ce18efc5-f6da-4762-9e99-0c0b9bfcf2c5" Title="HomeTheatre Properties" Url="html/d22078b8-3041-a0a4-e83c-ae0985b27918.htm">
+        <HelpTOCNode Title="DVDPlayer Property " Url="html/82b4aef3-5abc-f729-7d54-474539e7af6a.htm" />
+        <HelpTOCNode Title="Light Property " Url="html/7bafa2db-926e-d6a4-5d17-5fc138dd1c7c.htm" />
+        <HelpTOCNode Title="Sound Property " Url="html/c6ba0d2a-7e46-792c-0f9a-2e220d5c537c.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="9185b6a9-0b3a-4f5d-a316-03e65f3418ad" Title="Model Class" Url="html/dfe5f2bc-56a8-6e9b-4aa8-c91bc8b6f622.htm">
+      <HelpTOCNode Title="Model Members" Url="html/d024f054-4e6f-830f-7073-07c75155cb5a.htm" />
+      <HelpTOCNode Title="Model Constructor " Url="html/0cd3ceb1-7d89-69a5-80e9-e3b222efa0d9.htm" />
+      <HelpTOCNode Title="Model Methods" Url="html/ae877dc3-a27c-7c93-1f38-e852575caf44.htm" />
+      <HelpTOCNode Id="63e7f167-af25-46e8-a97e-dd528d4bc33f" Title="Model Properties" Url="html/8411ae5f-e5b8-cae2-ebd8-d961896f142c.htm">
+        <HelpTOCNode Title="Description Property " Url="html/a5865ebb-3f44-1775-48c5-a5f46fc13c95.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+  </HelpTOCNode>
+  <HelpTOCNode Id="e33e99d1-379c-4999-9655-4cb0d6d2cf28" Title="designPatterns.model.Behavioural Namespace" Url="html/924b96aa-dfc6-0362-cdd3-c2c6821b9421.htm">
+    <HelpTOCNode Id="bd30f73e-71e9-419e-bfbe-68aeedbbbafe" Title="Director Class" Url="html/bc2806b9-1fa9-619c-f28f-fb864e219741.htm">
+      <HelpTOCNode Title="Director Members" Url="html/69615c5d-043b-d5cf-d1c8-4c3803c8b17c.htm" />
+      <HelpTOCNode Title="Director Constructor " Url="html/01d241c8-0561-fa03-6d93-e5cf2dd88706.htm" />
+      <HelpTOCNode Title="Director Fields" Url="html/b53e0aab-0512-fa7b-ac03-95c5d8ae04da.htm" />
+      <HelpTOCNode Title="Director Methods" Url="html/6399eb05-b42b-8c05-eda3-cd0d3ba2a9d2.htm" />
+      <HelpTOCNode Title="Director Properties" Url="html/ff6c1910-13fe-0239-d4bf-b58d1e54d05c.htm" />
+    </HelpTOCNode>
+    <HelpTOCNode Id="e80977e9-62ab-4235-ae88-5fb067e3f1be" Title="HandlerModel Class" Url="html/30196d93-2f79-aabf-ecb1-627c5060c8c1.htm">
+      <HelpTOCNode Title="HandlerModel Members" Url="html/83ae47c2-8023-fbc6-0ad8-4a204a2e705c.htm" />
+      <HelpTOCNode Title="HandlerModel Constructor " Url="html/ab7fbb9e-295f-f9a4-513c-831866cdb91b.htm" />
+      <HelpTOCNode Id="6c86660c-85cd-4fd1-a9d6-84ffa7085125" Title="HandlerModel Methods" Url="html/0158e5b8-89d4-6dce-769d-d5e49ee2811d.htm">
+        <HelpTOCNode Title="AddJob Method " Url="html/4ccc26a6-9789-f838-611a-8e727558ef67.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="69c2a050-11f8-4a2b-a1bf-fce6863d2059" Title="HandlerModel Properties" Url="html/d3207d36-72a7-f210-c864-fa8e1d34f018.htm">
+        <HelpTOCNode Title="Director Property " Url="html/2258a9a4-048b-5314-e3af-605483bc2c98.htm" />
+        <HelpTOCNode Title="ProjectManager Property " Url="html/5a41aeb6-6cee-dd3f-684e-30a11ba78ed0.htm" />
+        <HelpTOCNode Title="ViceDirector Property " Url="html/5d12640c-4796-4478-093f-405fe1145b6f.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="de7ceca9-5593-4c4e-9096-8b205e57b109" Title="Job Class" Url="html/44e9328d-ff3d-60d8-ee4e-0300dafc22d1.htm">
+      <HelpTOCNode Title="Job Members" Url="html/46b2cf51-4da3-f487-bfca-385c77ee2fc0.htm" />
+      <HelpTOCNode Id="ce56cb00-4d9a-49ab-ac85-e2e0b654b821" Title="Job Constructor " Url="html/95747f2a-b2bc-b024-716f-712be30e6203.htm">
+        <HelpTOCNode Title="Job Constructor " Url="html/fdd7bb66-1b76-f465-db4d-747d000c4b9d.htm" />
+        <HelpTOCNode Title="Job Constructor (String, Single)" Url="html/8adf79c3-2f64-826a-9706-26a0afe4f6db.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Title="Job Methods" Url="html/c2a13c72-8b25-f729-416b-5c91c12c4d6e.htm" />
+      <HelpTOCNode Id="cc8115a6-b968-4a29-80d3-881475839c4c" Title="Job Properties" Url="html/92bf2ae0-48c4-1b42-07c3-37654bee2466.htm">
+        <HelpTOCNode Title="Description Property " Url="html/67fd0012-87d6-e358-2746-2612efeb3d78.htm" />
+        <HelpTOCNode Title="Price Property " Url="html/29f251a0-716b-07e2-a809-69aaef9521a0.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="49d3b33c-4f11-43ad-8645-3ecdba29422c" Title="Member Class" Url="html/86f52e62-d9cf-1b38-0fb6-8882e1d82ffb.htm">
+      <HelpTOCNode Title="Member Members" Url="html/1bf7da78-4f94-2bc9-7390-1e7bdced521b.htm" />
+      <HelpTOCNode Title="Member Constructor " Url="html/72e9c6b6-0c8e-1f73-9ec8-4fc21432f322.htm" />
+      <HelpTOCNode Id="7c0fdc98-fbaa-48cc-a919-57549d862e91" Title="Member Fields" Url="html/0e7f1da7-f162-6692-5779-0c72c9a5be38.htm">
+        <HelpTOCNode Title="LimitedPrice Field" Url="html/70eebe76-5146-3325-27a6-a95edc45be58.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="91b79365-9f81-4c98-b82b-fc2f858a771b" Title="Member Methods" Url="html/d144ea44-5af7-1b12-f244-5edfabaa7049.htm">
+        <HelpTOCNode Title="Process Method " Url="html/69ad5f9c-e034-20b5-0760-14c141758e1f.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="a9b45490-22e1-4c86-89b0-1243a530b817" Title="Member Properties" Url="html/d40c10ac-543f-10d6-e6e3-93253cf63190.htm">
+        <HelpTOCNode Title="HigherMember Property " Url="html/bc35607b-0128-aa01-420e-aaf25bbbed74.htm" />
+        <HelpTOCNode Title="Name Property " Url="html/63d0904b-d299-3146-5581-f3d49d05ecbe.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="dd151c59-bffd-436f-85e7-87dc2fb34925" Title="ProjectManager Class" Url="html/9259ddb1-5628-deaa-dbb3-87a4d10732ab.htm">
+      <HelpTOCNode Title="ProjectManager Members" Url="html/8e51bbd9-3aba-1de2-3b70-f3a1e762132b.htm" />
+      <HelpTOCNode Title="ProjectManager Constructor " Url="html/7b5bc3a6-8a4d-7266-0591-ff6488764499.htm" />
+      <HelpTOCNode Title="ProjectManager Fields" Url="html/d8a013f2-e1dd-2a63-1250-22e9b0b15827.htm" />
+      <HelpTOCNode Title="ProjectManager Methods" Url="html/36c9ecaf-1810-69e2-cef9-0b5ee6ef0272.htm" />
+      <HelpTOCNode Title="ProjectManager Properties" Url="html/3e587924-542f-7b71-b4ba-728217aa26ce.htm" />
+    </HelpTOCNode>
+    <HelpTOCNode Id="fe866657-c93f-4383-83de-13732baf511c" Title="ViceDirector Class" Url="html/70f11fb5-0b01-9eae-252e-c1f4e22455e2.htm">
+      <HelpTOCNode Title="ViceDirector Members" Url="html/d49f1cc9-2f4c-526c-fd1f-68ae3e820205.htm" />
+      <HelpTOCNode Title="ViceDirector Constructor " Url="html/c368b645-5366-26b7-efaa-4ff336e32dbf.htm" />
+      <HelpTOCNode Title="ViceDirector Fields" Url="html/5d27f0d9-bdb9-f832-aef2-fa325fb858aa.htm" />
+      <HelpTOCNode Title="ViceDirector Methods" Url="html/e399e260-a30b-ce4c-ff2d-c32d6e12f8a6.htm" />
+      <HelpTOCNode Title="ViceDirector Properties" Url="html/f1e04e11-7777-46ce-5a22-38c4fbcd4cf4.htm" />
+    </HelpTOCNode>
+  </HelpTOCNode>
+  <HelpTOCNode Id="01051ae6-e064-44e0-9604-b41f0d9dd1ef" Title="designPatterns.model.Strutural Namespace" Url="html/773f01d1-0624-46c7-aadc-6682197192c9.htm">
+    <HelpTOCNode Id="696fc891-d78b-4730-8150-3b01a822da89" Title="DecoratorModel Class" Url="html/088efbfc-b061-d577-18bf-4900500521e2.htm">
+      <HelpTOCNode Title="DecoratorModel Members" Url="html/09f5f49c-32da-d63c-ddb2-2cccc0480f44.htm" />
+      <HelpTOCNode Title="DecoratorModel Constructor " Url="html/43814cdd-9363-3a87-0d17-b533214310a9.htm" />
+      <HelpTOCNode Id="b1cf39a0-3591-4b10-b73a-427dcbf7fcff" Title="DecoratorModel Methods" Url="html/781002e3-5e2d-531b-7175-909fdb4da624.htm">
+        <HelpTOCNode Title="ActivateSpecialSkill Method " Url="html/9625d7d2-3e09-43b1-24d3-4051c2761d3b.htm" />
+        <HelpTOCNode Title="ChangeWeapon Method " Url="html/e3331efd-cb0b-fd36-8b0a-1d7ff0e099f1.htm" />
+        <HelpTOCNode Title="GetAttackValue Method " Url="html/aab7ab5e-0804-a370-520c-13271d0f105a.htm" />
+        <HelpTOCNode Title="GetDefenseValue Method " Url="html/89d8814f-09ab-134c-16d1-52eaf1a022cf.htm" />
+        <HelpTOCNode Title="HaveSpecialSkill Method " Url="html/12c89cdd-1efb-89fb-908f-75d0bcb148ae.htm" />
+        <HelpTOCNode Title="IsSkillActivated Method " Url="html/9d5867f9-fcd4-8237-2722-0dc7d58c349e.htm" />
+        <HelpTOCNode Title="UnActivateSpecialSkill Method " Url="html/32309570-02f3-8d2a-3715-67be0de57300.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="89921bc9-0590-407e-9211-5c0788778090" Title="DecoratorModel Properties" Url="html/275bb177-dddd-e316-5dff-1d5bc6b6f8a7.htm">
+        <HelpTOCNode Title="MyCharacter Property " Url="html/96d1ba9b-69bf-b06b-a467-a328ae750a63.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="61a36337-17f9-4d97-8aa2-a1ff73e2796a" Title="DecoratorModel.Character Class" Url="html/ef337873-db7e-d6b1-aff7-865911881d16.htm">
+      <HelpTOCNode Title="DecoratorModel.Character Members" Url="html/a5a79be7-5064-e9b6-1053-e8ef37c9183d.htm" />
+      <HelpTOCNode Title="DecoratorModel.Character Constructor " Url="html/551dd1fb-0758-7d8f-787d-0de9b17160d9.htm" />
+      <HelpTOCNode Id="8acf869f-0da3-4d79-9fdf-46d59764ba2e" Title="DecoratorModel.Character Methods" Url="html/1f7abef4-9423-0425-e41b-10abba69e39d.htm">
+        <HelpTOCNode Title="ActivateWeaponSpecialSkill Method " Url="html/baaf7bc1-e162-33f4-a051-4219c558fd25.htm" />
+        <HelpTOCNode Title="ChangeWeapon Method " Url="html/d4a48496-76ee-2ddb-9df0-1261d245e7cb.htm" />
+        <HelpTOCNode Title="HaveSpecialSkill Method " Url="html/27654d7b-8b11-5d9e-6200-5406a133945b.htm" />
+        <HelpTOCNode Title="IsSkillActivated Method " Url="html/afebe825-ab84-91f9-56d6-b4b5410740d5.htm" />
+        <HelpTOCNode Title="UnActivateWeaponSpecialSkill Method " Url="html/ac3e0bda-ca1b-9946-3a8c-79aca3dfd788.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="ee8c5329-b832-445a-89e5-359957e46843" Title="DecoratorModel.Character Properties" Url="html/a23fb872-e67c-02fb-11fb-50cb9125f817.htm">
+        <HelpTOCNode Title="Attack Property " Url="html/8118f2cd-ed2e-a882-6982-f2ed08b59df6.htm" />
+        <HelpTOCNode Title="Defense Property " Url="html/6e7a2d7c-7b4c-3925-c284-c3a1b961fd1c.htm" />
+        <HelpTOCNode Title="Item Property " Url="html/d3a81ce8-655b-699a-bb97-7689309a582f.htm" />
+        <HelpTOCNode Title="WeaponName Property " Url="html/c13a6da9-5b8d-5bb5-ea46-3c87b7c9d3da.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="c7a17aa4-a72b-4686-b467-3e64c089e130" Title="DecoratorModel.GameItem Class" Url="html/fe89a3a4-bdec-b3fb-f913-eb29f157be0c.htm">
+      <HelpTOCNode Title="DecoratorModel.GameItem Members" Url="html/555755df-e50a-c5e7-2f1d-4a964378db8b.htm" />
+      <HelpTOCNode Id="59a5f465-770b-4a42-a117-43a0abcee884" Title="DecoratorModel.GameItem Constructor " Url="html/313e080f-55ca-650c-6a14-0308bc54b2b5.htm">
+        <HelpTOCNode Title="DecoratorModel.GameItem Constructor " Url="html/9ba5d62f-dfb7-2cbc-5f64-6d92f6f572c7.htm" />
+        <HelpTOCNode Title="DecoratorModel.GameItem Constructor (DecoratorModel.GameItem)" Url="html/cc8d3cdf-2dcb-2f6c-960a-48e839986106.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Title="DecoratorModel.GameItem Methods" Url="html/f88befc5-2edc-70bd-908e-f642428a493b.htm" />
+      <HelpTOCNode Id="aeeee087-37e8-4044-b6ae-e88dff467133" Title="DecoratorModel.GameItem Properties" Url="html/580d2bd8-55df-5714-8439-e55c24ff5113.htm">
+        <HelpTOCNode Title="Damage Property " Url="html/46601e82-3c27-8bdb-8747-317a4ae0818a.htm" />
+        <HelpTOCNode Title="Defense Property " Url="html/793f2d7f-0884-4cbe-2ceb-8bc8d605985c.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="f0086f98-d06a-477a-8dc5-ce0c6b3927f7" Title="DecoratorModel.GodGameItem Class" Url="html/b686882a-dd42-42f9-0ad1-d28a9e01d6ff.htm">
+      <HelpTOCNode Title="DecoratorModel.GodGameItem Members" Url="html/030c4b44-773d-1056-3ecd-1cba75c01529.htm" />
+      <HelpTOCNode Title="DecoratorModel.GodGameItem Constructor " Url="html/82ecb00b-625c-a002-a76f-a118f6648f44.htm" />
+      <HelpTOCNode Id="02a296b6-b653-4f8c-af81-7e2b4efc3015" Title="DecoratorModel.GodGameItem Methods" Url="html/252d46dc-5043-d69d-d5c3-78a4d3053e13.htm">
+        <HelpTOCNode Title="ActivateWeaponSpecialSkill Method " Url="html/eff72350-f5a4-d6de-4368-7fafa90d0f84.htm" />
+        <HelpTOCNode Title="UnActivateSpecialSkill Method " Url="html/b9e8e22c-b10e-f5f2-e3ef-e51e134af1f9.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="2b0fb6bf-82cb-4d79-8ceb-1688c1ae48ab" Title="DecoratorModel.GodGameItem Properties" Url="html/cd17ffd9-4974-31e3-3115-112bb9d29707.htm">
+        <HelpTOCNode Title="SkillActivated Property " Url="html/83244340-298a-8960-266b-3f79fc3d3095.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+  </HelpTOCNode>
+  <HelpTOCNode Id="81a52712-7424-48f0-83f5-21b4d3646bd5" Title="designPatterns.view Namespace" Url="html/65e16c29-bc5c-68b0-c7f5-43ac76ec9e6c.htm">
+    <HelpTOCNode Id="84ac6523-82d5-4ddd-8348-965aa44078d5" Title="FacadeView Class" Url="html/c8bdae93-7501-690f-994a-ba29ddad5353.htm">
+      <HelpTOCNode Title="FacadeView Members" Url="html/b03802c0-1364-efa8-a08c-d0466fb727fe.htm" />
+      <HelpTOCNode Title="FacadeView Constructor " Url="html/18c9f40b-fbbd-c46c-cfbf-692987ac6537.htm" />
+      <HelpTOCNode Id="4779050e-5db7-4726-a4ac-ce2d94208d66" Title="FacadeView Methods" Url="html/d18dbc1f-056c-7c9d-5b77-74c0e50730e7.htm">
+        <HelpTOCNode Title="AddHandler Method " Url="html/3c80a131-c88c-6d04-90ae-84e7013b8e9d.htm" />
+        <HelpTOCNode Title="ApplyAnimationClock Method " Url="html/336bb1ee-36d2-3587-1472-131e85667464.htm" />
+        <HelpTOCNode Title="BeginAnimation Method " Url="html/093f0013-3afd-e513-3140-aecb4f74b465.htm" />
+        <HelpTOCNode Title="BeginStoryboard Method " Url="html/8841a6fe-8457-40d0-1c57-3b395083c313.htm" />
+        <HelpTOCNode Title="BringIntoView Method " Url="html/d6cf9039-e9fe-2a05-1b52-c9fb2c0d819c.htm" />
+        <HelpTOCNode Title="ClearValue Method " Url="html/cd22994c-08a7-ca00-a9fd-702a7313f058.htm" />
+        <HelpTOCNode Title="HitTestCore Method " Url="html/86e2243d-4d23-f271-1e0d-fb9a6d809a17.htm" />
+        <HelpTOCNode Title="InitializeComponent Method " Url="html/d67d054a-a492-c531-36df-c3bed73e0071.htm" />
+        <HelpTOCNode Title="SetBinding Method " Url="html/a021ea4c-710c-baac-4b74-075e2dfe0de1.htm" />
+        <HelpTOCNode Title="SetValue Method " Url="html/ac1687cc-65bb-ff79-d6a3-bbc033ee77f4.htm" />
+        <HelpTOCNode Title="TransformToAncestor Method " Url="html/6d5754fb-dc05-2219-5690-eaa1a85ca4f4.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Title="FacadeView Properties" Url="html/cfe3c669-3dc0-b93f-3d09-ea11443ca537.htm" />
+      <HelpTOCNode Title="FacadeView Events" Url="html/1aa16641-d560-5e2c-2888-c0730a959dbc.htm" />
+    </HelpTOCNode>
+    <HelpTOCNode Id="d79fc20d-d33d-4549-aa4b-906cc0f92207" Title="HandlerView Class" Url="html/9d204abc-4900-e4d4-1b88-da0366b99ee5.htm">
+      <HelpTOCNode Title="HandlerView Members" Url="html/17451a56-50c3-bbf8-6cbd-1016fd36087a.htm" />
+      <HelpTOCNode Title="HandlerView Constructor " Url="html/598aff10-93c7-a9cd-8f98-dc15f8d481d7.htm" />
+      <HelpTOCNode Id="b5244581-0511-4e38-b7cd-1a06c790149c" Title="HandlerView Methods" Url="html/a37246b8-0555-3b14-252a-9487bad8d181.htm">
+        <HelpTOCNode Title="AddHandler Method " Url="html/94eb73b8-163a-f2a8-a139-f93d18ffe859.htm" />
+        <HelpTOCNode Title="ApplyAnimationClock Method " Url="html/95d7184e-8ebe-14ab-8fe9-80108328dac4.htm" />
+        <HelpTOCNode Title="BeginAnimation Method " Url="html/77c3c420-235f-7622-7308-1a4517a769fa.htm" />
+        <HelpTOCNode Title="BeginStoryboard Method " Url="html/fc551911-e569-109a-f2a9-4a641bc11227.htm" />
+        <HelpTOCNode Title="BringIntoView Method " Url="html/ff726488-234b-7a0c-155d-b8defe3328f7.htm" />
+        <HelpTOCNode Title="ClearValue Method " Url="html/e9674d27-4911-fc0a-d8e5-c07b9632d0f0.htm" />
+        <HelpTOCNode Title="HitTestCore Method " Url="html/507b2e97-6ebd-fee3-1ae9-8b5614f45a95.htm" />
+        <HelpTOCNode Title="InitializeComponent Method " Url="html/216ee471-d3e3-4d7f-9e4b-90861d9783b1.htm" />
+        <HelpTOCNode Title="SetBinding Method " Url="html/89be27b6-3fd9-6963-4ce7-23b2a098f609.htm" />
+        <HelpTOCNode Title="SetValue Method " Url="html/af60ef57-a806-1a92-8396-c4ab75ba8fbf.htm" />
+        <HelpTOCNode Title="TransformToAncestor Method " Url="html/d270b796-d7e5-e935-7c41-fe625acf99cf.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Title="HandlerView Properties" Url="html/8f326c38-0623-2023-59fc-c522207d0939.htm" />
+      <HelpTOCNode Title="HandlerView Events" Url="html/aee51b8a-346e-3295-e21b-db354dc8d048.htm" />
+    </HelpTOCNode>
+  </HelpTOCNode>
+  <HelpTOCNode Id="1465a8b0-1077-4483-a691-0278c718c17d" Title="designPatterns.view.Strutural Namespace" Url="html/3ab8f979-c004-aebf-2810-7c98c1e9ee1d.htm">
+    <HelpTOCNode Id="16c81747-23c3-4c17-bf52-2a7a789cfb81" Title="DecoratorView Class" Url="html/6a63a4a8-207e-3529-91cc-2bf4b9e6128e.htm">
+      <HelpTOCNode Title="DecoratorView Members" Url="html/0e22fb1c-b89e-01b7-8f7f-d08ff8b9c50c.htm" />
+      <HelpTOCNode Title="DecoratorView Constructor " Url="html/82d5628e-f170-5ba5-c275-5e628f28891b.htm" />
+      <HelpTOCNode Id="a4ce1350-5ea8-4d70-ad5f-14ce035f879f" Title="DecoratorView Methods" Url="html/860fa0fe-8d28-55f3-b3bd-0a94ce723221.htm">
+        <HelpTOCNode Title="AddHandler Method " Url="html/e155557a-3f7d-5087-8028-289ffc396aa2.htm" />
+        <HelpTOCNode Title="ApplyAnimationClock Method " Url="html/35cf90f6-50b8-e7c7-9367-f7dbb321ac12.htm" />
+        <HelpTOCNode Title="BeginAnimation Method " Url="html/37a1ea4b-ed0f-8201-24a3-bf3447b9b317.htm" />
+        <HelpTOCNode Title="BeginStoryboard Method " Url="html/f724e29c-44ab-269a-7e43-6445ea04d84a.htm" />
+        <HelpTOCNode Title="BringIntoView Method " Url="html/234c3806-4ae9-0873-6202-a7523ecc1c5d.htm" />
+        <HelpTOCNode Title="ClearValue Method " Url="html/e9c28c0d-b447-c20e-e6af-f5fae193bad1.htm" />
+        <HelpTOCNode Title="HitTestCore Method " Url="html/c932a758-623e-9bc4-5762-24d9035c9b00.htm" />
+        <HelpTOCNode Title="InitializeComponent Method " Url="html/fb66c374-cbdc-b573-b799-b0945049c90d.htm" />
+        <HelpTOCNode Title="SetBinding Method " Url="html/6e9f0de9-8127-d0b8-0812-93c6308eacd4.htm" />
+        <HelpTOCNode Title="SetValue Method " Url="html/1ffa8009-4876-3481-d761-f371817cd3c9.htm" />
+        <HelpTOCNode Title="TransformToAncestor Method " Url="html/a64556cc-ac47-094e-882c-35c2be3386bf.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Title="DecoratorView Properties" Url="html/d02af112-9d00-b08e-2384-563655354bb9.htm" />
+      <HelpTOCNode Title="DecoratorView Events" Url="html/2da5c8b0-2665-45ff-55a3-03ba2252b86a.htm" />
+    </HelpTOCNode>
+  </HelpTOCNode>
+  <HelpTOCNode Id="340351a3-8edc-4bcf-9bea-c75fdcbdd6a2" Title="designPatterns.viewmodel Namespace" Url="html/f6baef5e-a984-6f06-5350-11d4ec5c6d98.htm">
+    <HelpTOCNode Id="9980fde0-a393-47df-806a-b488e1c99265" Title="Command Class" Url="html/a543d571-8bf5-7b62-ec75-9d3beb27fc60.htm">
+      <HelpTOCNode Title="Command Members" Url="html/6160ff6d-78fc-0d47-207a-34159845f174.htm" />
+      <HelpTOCNode Title="Command Constructor " Url="html/1269750c-307f-e0cc-4946-5b72b838e808.htm" />
+      <HelpTOCNode Id="80ad5f08-d35c-4405-9ef5-54204a964acb" Title="Command Methods" Url="html/739b6f32-2738-f452-0ec5-9ad9dfc16ba8.htm">
+        <HelpTOCNode Title="CanExecute Method " Url="html/9e6ec436-888c-77ca-a6c6-5048a79d0a9a.htm" />
+        <HelpTOCNode Title="Execute Method " Url="html/7b1e2eb1-4c51-dea9-b10f-447be4f89690.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="a7bc15f8-321e-44be-8a0a-5b8e7037fcb6" Title="Command Properties" Url="html/be4198ef-0125-af4b-823f-f8ffb3ddd321.htm">
+        <HelpTOCNode Title="CanExcuteDelegate Property " Url="html/6d650d34-251b-9645-1273-448ddb639e02.htm" />
+        <HelpTOCNode Title="ExecuteDelegate Property " Url="html/49db02a8-c255-5831-bdf6-bd94e2d48e43.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="98ab0267-bab1-4441-82f4-c703d770c39a" Title="Command Events" Url="html/e6c81f3f-567b-83b9-89d6-2037e7b64ccc.htm">
+        <HelpTOCNode Title="CanExecuteChanged Event" Url="html/0ddd4f0f-a5e8-f523-d07b-eda2ad91f499.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="5664f6c6-550c-4911-b250-7c1012cf77b0" Title="HelpView Class" Url="html/5d4f9528-6f6d-6e0d-b1a9-671393dcaa35.htm">
+      <HelpTOCNode Title="HelpView Members" Url="html/a4095d77-d3d6-12d1-4db4-f7023e9ce69b.htm" />
+      <HelpTOCNode Title="HelpView Constructor " Url="html/dcc66e58-c77f-d7b9-c382-e76022521398.htm" />
+      <HelpTOCNode Id="d0b3c06d-add1-4a83-bbfd-a6f71e1e35b4" Title="HelpView Fields" Url="html/82c5686c-538c-3e85-3a1b-05bb091f0119.htm">
+        <HelpTOCNode Title="_ViewModel Field" Url="html/c66d2186-322d-54c4-3076-7e38d19e12f1.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="efc15fec-d0dc-4306-abb2-57abb494115f" Title="HelpView Methods" Url="html/62b74a9c-6dfa-2641-88bc-b3dba5bdd6e6.htm">
+        <HelpTOCNode Title="AddHandler Method " Url="html/b943f398-0679-ee9b-fe58-dccb3d532094.htm" />
+        <HelpTOCNode Title="ApplyAnimationClock Method " Url="html/da08aadf-3c60-47e2-aa2b-57f277edb0ea.htm" />
+        <HelpTOCNode Title="BeginAnimation Method " Url="html/8af9bcd2-2b5c-9151-5ad2-902261a85a7b.htm" />
+        <HelpTOCNode Title="BeginStoryboard Method " Url="html/06b44278-efdb-a296-e25d-e4c1a39f4458.htm" />
+        <HelpTOCNode Title="BringIntoView Method " Url="html/fb549856-c00e-02f7-e435-e8ad7ad3357d.htm" />
+        <HelpTOCNode Title="ClearValue Method " Url="html/38f21d16-8368-0428-738b-78f53fa5b337.htm" />
+        <HelpTOCNode Title="HitTestCore Method " Url="html/14b29fe5-2284-bb3d-0365-acebedf30af0.htm" />
+        <HelpTOCNode Title="InitializeComponent Method " Url="html/17d1347f-4606-d278-f701-350c43a16ed4.htm" />
+        <HelpTOCNode Title="SetBinding Method " Url="html/d2e5205f-edc0-0ca2-b322-6e517c2db6b1.htm" />
+        <HelpTOCNode Title="SetValue Method " Url="html/817b091e-b89e-162b-91a5-6615d6e90749.htm" />
+        <HelpTOCNode Title="TransformToAncestor Method " Url="html/d4aa3c8b-5d14-c0c6-c62d-7c1994fa182e.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Title="HelpView Properties" Url="html/6d0de48c-c4d8-f83b-534b-3a807e098007.htm" />
+      <HelpTOCNode Title="HelpView Events" Url="html/287dc2f6-fbea-20bc-31f1-e5b2071e2035.htm" />
+    </HelpTOCNode>
+    <HelpTOCNode Id="cd03bc80-5a14-46c4-a90e-79f82b2a0add" Title="HelpViewModel Class" Url="html/021859e1-bc35-7344-c363-261edf0d2ac4.htm">
+      <HelpTOCNode Title="HelpViewModel Members" Url="html/706e0c01-149f-81b1-4ade-f79d4701175d.htm" />
+      <HelpTOCNode Title="HelpViewModel Constructor " Url="html/e149b0d9-b186-bda0-168a-4717882bbd32.htm" />
+      <HelpTOCNode Title="HelpViewModel Methods" Url="html/fbf17e80-e03d-b6fe-9fc7-61b32937bda9.htm" />
+      <HelpTOCNode Id="d659a4c8-f655-406d-b022-b89cd99390b7" Title="HelpViewModel Properties" Url="html/fc8f20cc-3f96-b20a-11d5-23fe9e1fbcf9.htm">
+        <HelpTOCNode Title="HelpDescription Property " Url="html/a086a28f-c86e-8264-ffc5-ab67a0218c8f.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="ddb84cc8-bef7-47d8-b5d0-902013b81df5" Title="MainViewModel Class" Url="html/476e2302-1e81-ab12-9498-319d4c0db607.htm">
+      <HelpTOCNode Title="MainViewModel Members" Url="html/6588d625-b60b-f149-e833-fd4e82994923.htm" />
+      <HelpTOCNode Title="MainViewModel Constructor " Url="html/85100205-dbc9-c49e-cae1-9661de59ba95.htm" />
+      <HelpTOCNode Title="MainViewModel Methods" Url="html/1c7d8604-43a5-66dc-d8ce-e2f8a4404505.htm" />
+      <HelpTOCNode Id="14f84fe6-a941-4918-90a1-d7fc20c36710" Title="MainViewModel Properties" Url="html/8c551373-3924-b851-ef99-2960081b22f2.htm">
+        <HelpTOCNode Title="MainWindowText Property " Url="html/f4e60406-f2f3-06be-7457-e201e9cf2011.htm" />
+        <HelpTOCNode Title="OpenDecoratorView Property " Url="html/bfa1523b-0005-cd1a-1804-5d79e82ae43c.htm" />
+        <HelpTOCNode Title="OpenFacadeView Property " Url="html/4db32952-3d95-cf6f-0474-4b2ce2cb8934.htm" />
+        <HelpTOCNode Title="OpenHandlerView Property " Url="html/ca62883f-00d9-6706-66c0-491c2a6bd65e.htm" />
+        <HelpTOCNode Title="OpenHelpView Property " Url="html/0be14264-8b15-1723-49bf-a5ced5c0118d.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="bb9fd120-9f85-4aae-b09b-57368804ff38" Title="PropertyChangedBase Class" Url="html/043a0452-b15e-87ff-225b-e86af62b849e.htm">
+      <HelpTOCNode Title="PropertyChangedBase Members" Url="html/9ffd9297-bcaf-a882-1e85-b40481a1071a.htm" />
+      <HelpTOCNode Title="PropertyChangedBase Constructor " Url="html/fabc14a3-101f-b417-fd03-8003c8b706c4.htm" />
+      <HelpTOCNode Id="51ca9521-a4ae-41e2-bd4e-f031778daac6" Title="PropertyChangedBase Methods" Url="html/d36fd8fe-c990-527c-7f06-e2a3d2b0e777.htm">
+        <HelpTOCNode Title="OnPropertyChanged Method " Url="html/391d9a50-1f42-7a15-1d7c-f4c6a24b7769.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="742db522-a6fe-4a91-b5a0-dbca2f614ed3" Title="PropertyChangedBase Events" Url="html/3cf26141-8754-7128-a0eb-5fbbe4d0ff6c.htm">
+        <HelpTOCNode Title="PropertyChanged Event" Url="html/4b5e2f6b-47d6-ce5a-b3ba-8f51d5d73270.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="d1d0821b-7109-485d-9529-99a82c205253" Title="ViewModel(TModel) Class" Url="html/4070d684-901c-6c79-5926-58020f4e1f0a.htm">
+      <HelpTOCNode Title="ViewModel(TModel) Members" Url="html/a7220376-37b2-5d0c-f911-0e8041331dde.htm" />
+      <HelpTOCNode Id="2711ea92-9607-4a31-8adf-3e94b884194c" Title="ViewModel(TModel) Constructor " Url="html/0cbc283a-0b2f-52f4-5652-33690f81868b.htm">
+        <HelpTOCNode Title="ViewModel(TModel) Constructor " Url="html/3e271ea7-c5ef-72b4-e0ef-91b8b365fe05.htm" />
+        <HelpTOCNode Title="ViewModel(TModel) Constructor (TModel)" Url="html/db51ee98-deda-599f-9748-f2997e53a9e6.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Title="ViewModel(TModel) Methods" Url="html/c5fa8508-72ba-f9b5-f817-3f34e7f1852c.htm" />
+      <HelpTOCNode Id="bf051e23-edae-47a7-b9b7-9f9223eabdd6" Title="ViewModel(TModel) Properties" Url="html/4b2984de-b0d1-9d79-049b-8ae22600ffcc.htm">
+        <HelpTOCNode Title="Description Property " Url="html/08edb2ae-63dc-df76-c879-0dcf55122e1e.htm" />
+        <HelpTOCNode Title="Model Property " Url="html/0b7a322f-2096-8b87-1015-49fc90af858e.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Title="ViewModel(TModel) Events" Url="html/a53e5fc7-5f87-c332-1c86-c483a75eb307.htm" />
+    </HelpTOCNode>
+  </HelpTOCNode>
+  <HelpTOCNode Id="30cd3d77-2278-4a54-a657-578a7477d62a" Title="designPatterns.viewmodel.Behavioural Namespace" Url="html/baa9e2a3-6f76-632b-2450-1ff5d85006d4.htm">
+    <HelpTOCNode Id="0dcc7727-7e95-48a2-94d4-3e75f71231bc" Title="HandlerViewModel Class" Url="html/13e5ab02-04df-3674-c45a-480a8a66c83c.htm">
+      <HelpTOCNode Title="HandlerViewModel Members" Url="html/344587dd-1170-88cc-b593-a028118f65e1.htm" />
+      <HelpTOCNode Id="5d9ec70e-fb7a-4916-bf23-207ec1e9a75c" Title="HandlerViewModel Constructor " Url="html/1e84c762-ddf4-ece5-43cf-68eb387bf710.htm">
+        <HelpTOCNode Title="HandlerViewModel Constructor " Url="html/f9310097-7d01-2b39-d94d-84ac57c207e5.htm" />
+        <HelpTOCNode Title="HandlerViewModel Constructor (Model)" Url="html/7cbab5f4-927c-7449-f57d-55a3328a9959.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="fad39e2f-17dd-4cca-97ea-7a88b2ec2f89" Title="HandlerViewModel Methods" Url="html/1b157e37-6ed1-e1b4-07aa-a5cc445ef38a.htm">
+        <HelpTOCNode Title="AddJob Method " Url="html/f50e2036-0bc2-0baf-f340-09acc0047d13.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="67ca21c9-149a-4e77-861e-032611a077bb" Title="HandlerViewModel Properties" Url="html/0104632c-e900-58ad-c70b-e9c54552df48.htm">
+        <HelpTOCNode Title="DirectorName Property " Url="html/c6fb03ef-1a11-5490-8076-c6d15a86e544.htm" />
+        <HelpTOCNode Title="Job Property " Url="html/f72a134e-1ade-3e1b-5198-445410c3cf7f.htm" />
+        <HelpTOCNode Title="JobDescription Property " Url="html/cb44b80e-8194-ded3-7ac5-ec233eb11dac.htm" />
+        <HelpTOCNode Title="JobPrice Property " Url="html/407e4e3f-3451-83bc-512c-d8dec02558f0.htm" />
+        <HelpTOCNode Title="ProjectManagerName Property " Url="html/5a04d1fa-d267-65c4-a64c-951eaea872d9.htm" />
+        <HelpTOCNode Title="ViceDirectorName Property " Url="html/8639a35d-1901-5e0d-522b-77c58c13f1fe.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Title="HandlerViewModel Events" Url="html/c68d72c0-4a2c-d7ff-dbd1-529be21c6fef.htm" />
+    </HelpTOCNode>
+  </HelpTOCNode>
+  <HelpTOCNode Id="f7724e71-c4b0-4b38-bb66-95db66e66e3c" Title="designPatterns.viewmodel.Structural Namespace" Url="html/c70ed1a0-7d0c-a62f-7c4e-014fa1fadad0.htm">
+    <HelpTOCNode Id="18baba37-7e7a-41e8-b4fc-ff962a70fe6e" Title="FacadeViewModel Class" Url="html/4273846b-216a-eb5b-da84-feaf2b780e8f.htm">
+      <HelpTOCNode Title="FacadeViewModel Members" Url="html/ab58ca93-9624-0ac1-5bfa-12e1a29ff292.htm" />
+      <HelpTOCNode Title="FacadeViewModel Constructor " Url="html/86e12ad7-489c-0103-9d82-6ff43b3e528f.htm" />
+      <HelpTOCNode Id="620401e6-5a23-49e9-8037-1b8ab0b04d66" Title="FacadeViewModel Methods" Url="html/9712e5b0-3203-c264-0536-69cca360ab0e.htm">
+        <HelpTOCNode Title="DVDEject Method " Url="html/89280d26-dfa8-2b73-4a39-91dff218b96a.htm" />
+        <HelpTOCNode Title="DVDInject Method " Url="html/95e05e3e-effe-b599-816b-94a15055f895.htm" />
+        <HelpTOCNode Title="SetLight Method " Url="html/f30854aa-f1d2-12a9-ee9e-628a79db55b7.htm" />
+        <HelpTOCNode Title="SetSound Method " Url="html/150a07e9-4de3-6d93-2729-7057b948099a.htm" />
+        <HelpTOCNode Title="TurnOff Method " Url="html/59375dac-3f56-3253-730b-ff850a81f0b1.htm" />
+        <HelpTOCNode Title="TurnOn Method " Url="html/fca339c7-6f1b-7f55-9bc1-9a395bf6ff01.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="b9e530ef-01fd-4261-b186-0d5b95a7276b" Title="FacadeViewModel Properties" Url="html/e734337a-1198-8d8f-8139-778c0703b4b7.htm">
+        <HelpTOCNode Title="LightValue Property " Url="html/0fe4e5b7-9a65-f72e-1c2e-637eb02ed673.htm" />
+        <HelpTOCNode Title="SoundValue Property " Url="html/69ce0c47-1d87-3260-7e9c-4d5d9f2b4207.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Title="FacadeViewModel Events" Url="html/f9777aa4-ebcd-123d-4530-3a8220ac34eb.htm" />
+    </HelpTOCNode>
+  </HelpTOCNode>
+  <HelpTOCNode Id="bf936747-faa1-4a9d-a6b6-397cfddbabb8" Title="designPatterns.viewmodel.Strutural Namespace" Url="html/4f0aa39b-ad01-ab5d-48ed-358d35f949c1.htm">
+    <HelpTOCNode Id="9897c70a-af95-4906-bdcd-5d411196d5f1" Title="DecoratorViewModel Class" Url="html/881d442a-6088-7a5c-84d9-dd3536a05efa.htm">
+      <HelpTOCNode Title="DecoratorViewModel Members" Url="html/a7a4c3c5-53d8-08d9-00e0-174f79182f77.htm" />
+      <HelpTOCNode Id="117a492d-ad15-403c-8ba3-da1575800abe" Title="DecoratorViewModel Constructor " Url="html/d77ac09e-640d-88ec-4954-61663fa13b62.htm">
+        <HelpTOCNode Title="DecoratorViewModel Constructor " Url="html/c33231d1-bae0-ea1a-e0c6-3f5f30ecdfbe.htm" />
+        <HelpTOCNode Title="DecoratorViewModel Constructor (DecoratorModel)" Url="html/4cc060cd-90c8-7d88-e413-502f459de27c.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Title="DecoratorViewModel Methods" Url="html/e4ba6261-b8cd-0383-d4f8-2b4c5452c269.htm" />
+      <HelpTOCNode Id="0519b981-d8fb-4b58-9fb4-4dcfd3633723" Title="DecoratorViewModel Properties" Url="html/ee4f7163-ae42-9dc4-2a39-52d3d399dd4c.htm">
+        <HelpTOCNode Title="ActivateSkill Property " Url="html/7e5432d9-7c02-fec7-7ffe-e81e132000ec.htm" />
+        <HelpTOCNode Title="AttackValue Property " Url="html/b1f3274f-6313-cecf-a64e-1a0376fdef47.htm" />
+        <HelpTOCNode Title="ChangeWeapon Property " Url="html/19776642-2b3f-b79c-0b03-0777587a2a70.htm" />
+        <HelpTOCNode Title="ConsoleOutput Property " Url="html/7ab3b10e-a521-191a-bdfe-b4a70860634e.htm" />
+        <HelpTOCNode Title="DefenseValue Property " Url="html/37ca5baf-1959-9afb-d54a-2e6188096048.htm" />
+        <HelpTOCNode Title="HaveSpecialSkill Property " Url="html/c8a0c505-6f7b-a07a-72e1-dce221b9a230.htm" />
+        <HelpTOCNode Title="ImgWeapon Property " Url="html/9d2cdccd-056b-d084-ed8b-77d199e2a869.htm" />
+        <HelpTOCNode Title="SpecialSkillButtonText Property " Url="html/04afa8aa-3644-959b-f536-9f22ffdb4057.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Title="DecoratorViewModel Events" Url="html/5fc8e0e6-ad80-51fd-7d34-22a943e839f8.htm" />
+    </HelpTOCNode>
+  </HelpTOCNode>
+</HelpTOC>
